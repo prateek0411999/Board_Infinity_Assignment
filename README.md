@@ -28,3 +28,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Monday(9:30 PM)
 started with the implementation and will be configuring the same from now
+## Tuesday(1:05 PM)
+done with configuring the server,done reading docs of TTL indexes in mongodb and cron 
